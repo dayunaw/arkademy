@@ -1,0 +1,26 @@
+{ 
+  "name" : "Dyah Ayu Nawangwulan",
+  "address" : "BTN Mutiara Indah Blok B Palu",
+  "hobbies" : [ 
+      "swim"
+      "singing",
+      "reading"
+  ],
+  "is_married" : false,
+  "school" : [
+    {
+      "highSchool" : "SMA Negeri 2 Palu",
+    },
+    {
+      "university" : "Universitas Tadulako",
+    }
+  ],
+  "skills" : [
+    {
+      "hardskills" : ["Able to speak English", "Operate Computer", "Playing Music Instrument"],
+    }
+    {
+      "softskills" : ["Math", "Art"],
+    }
+  ]
+}
